@@ -39,3 +39,12 @@ Docker version 29.1.3, build f52814d
 root@n8n:~# docker compose version
 Docker Compose version v5.0.0
 ```
+
+# Install
+
+```bash
+cp .env.ecample .env
+nano .env
+
+mkdir local-files
+```
